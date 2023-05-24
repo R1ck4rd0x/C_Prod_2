@@ -1,0 +1,8 @@
+www.google.com
+Address:  212.230.135.2
+www.amazon.com
+Address:  212.230.135.2
+www.microsoft.com
+Address:  212.230.135.2
+www.apple.com
+Address:  212.230.135.2

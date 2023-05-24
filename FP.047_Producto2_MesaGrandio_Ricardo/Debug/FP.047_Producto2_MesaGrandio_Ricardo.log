@@ -1,0 +1,11 @@
+﻿  FuncionAdap.c
+C:\Users\User X\OneDrive\UOC-ASIR\2o Semestre\Programa Comandos Personalizados FP.047\Producto 2\FP.047_Producto2_MesaGrandio_Ricardo\FP.047_Producto2_MesaGrandio_Ricardo\FuncionAdap.c(16,10): warning C4101: 'adapter': variable local sin referencia
+  FuncionAnalizaWebs.c
+C:\Users\User X\OneDrive\UOC-ASIR\2o Semestre\Programa Comandos Personalizados FP.047\Producto 2\FP.047_Producto2_MesaGrandio_Ricardo\FP.047_Producto2_MesaGrandio_Ricardo\FuncionAnalizaWebs.c(58,17): warning C4098: 'readFromFileAndPing': función 'void' que devuelve un valor
+C:\Users\User X\OneDrive\UOC-ASIR\2o Semestre\Programa Comandos Personalizados FP.047\Producto 2\FP.047_Producto2_MesaGrandio_Ricardo\FP.047_Producto2_MesaGrandio_Ricardo\FuncionAnalizaWebs.c(100,60): warning C4047: '!=': 'int' es distinto en los niveles de direccionamiento indirecto de 'void *'
+C:\Users\User X\OneDrive\UOC-ASIR\2o Semestre\Programa Comandos Personalizados FP.047\Producto 2\FP.047_Producto2_MesaGrandio_Ricardo\FP.047_Producto2_MesaGrandio_Ricardo\FuncionAnalizaWebs.c(129,21): warning C4098: 'readFromFileAndPing': función 'void' que devuelve un valor
+  FuncionMAC.c
+  FuncionRed.c
+  Main.c
+  Generando código...
+  FP.047_Producto2_MesaGrandio_Ricardo.vcxproj -> C:\Users\User X\OneDrive\UOC-ASIR\2o Semestre\Programa Comandos Personalizados FP.047\Producto 2\FP.047_Producto2_MesaGrandio_Ricardo\Debug\FP.047_Producto2_MesaGrandio_Ricardo.exe

@@ -1,0 +1,83 @@
+
+Configuraci¢n IP de Windows
+
+   Nombre de host. . . . . . . . . : DESKTOP-GU3OESI
+   Sufijo DNS principal  . . . . . : 
+   Tipo de nodo. . . . . . . . . . : h¡brido
+   Enrutamiento IP habilitado. . . : no
+   Proxy WINS habilitado . . . . . : no
+   Lista de b£squeda de sufijos DNS: home
+
+Adaptador de Ethernet Ethernet:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Descripci¢n . . . . . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Direcci¢n f¡sica. . . . . . . . . . . . . : 2C-F0-5D-74-6A-69
+   DHCP habilitado . . . . . . . . . . . . . : s¡
+   Configuraci¢n autom tica habilitada . . . : s¡
+
+Adaptador desconocido Conexi¢n de  rea local:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Descripci¢n . . . . . . . . . . . . . . . : TAP-Windows Adapter V9
+   Direcci¢n f¡sica. . . . . . . . . . . . . : 00-FF-6F-35-C5-62
+   DHCP habilitado . . . . . . . . . . . . . : s¡
+   Configuraci¢n autom tica habilitada . . . : s¡
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Descripci¢n . . . . . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter
+   Direcci¢n f¡sica. . . . . . . . . . . . . : 0A-00-27-00-00-13
+   DHCP habilitado . . . . . . . . . . . . . : no
+   Configuraci¢n autom tica habilitada . . . : s¡
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::be07:b4c3:1589:ed95%19(Preferido) 
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1(Preferido) 
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+   IAID DHCPv6 . . . . . . . . . . . . . . . : 738852903
+   DUID de cliente DHCPv6. . . . . . . . . . : 00-01-00-01-2B-6E-9C-74-2C-F0-5D-74-6A-69
+   Servidores DNS. . . . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS sobre TCP/IP. . . . . . . . . . . : habilitado
+
+Adaptador de LAN inal mbrica Conexi¢n de  rea local* 1:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Descripci¢n . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Direcci¢n f¡sica. . . . . . . . . . . . . : 5A-EF-68-27-24-BF
+   DHCP habilitado . . . . . . . . . . . . . : s¡
+   Configuraci¢n autom tica habilitada . . . : s¡
+
+Adaptador de LAN inal mbrica Conexi¢n de  rea local* 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Descripci¢n . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Direcci¢n f¡sica. . . . . . . . . . . . . : 58-EF-68-27-24-BF
+   DHCP habilitado . . . . . . . . . . . . . : s¡
+   Configuraci¢n autom tica habilitada . . . : s¡
+
+Adaptador de LAN inal mbrica Wi-Fi:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : home
+   Descripci¢n . . . . . . . . . . . . . . . : 2X2 selectable dual-band 802.11ac USB network adapter
+   Direcci¢n f¡sica. . . . . . . . . . . . . : 58-EF-68-27-24-BF
+   DHCP habilitado . . . . . . . . . . . . . : s¡
+   Configuraci¢n autom tica habilitada . . . : s¡
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::ea9e:7213:70a3:5083%3(Preferido) 
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.1.139(Preferido) 
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Concesi¢n obtenida. . . . . . . . . . . . : lunes, 24 de abril de 2023 10:44:46
+   La concesi¢n expira . . . . . . . . . . . : martes, 25 de abril de 2023 10:44:46
+   Puerta de enlace predeterminada . . . . . : 192.168.1.1
+   Servidor DHCP . . . . . . . . . . . . . . : 192.168.1.1
+   IAID DHCPv6 . . . . . . . . . . . . . . . : 56160104
+   DUID de cliente DHCPv6. . . . . . . . . . : 00-01-00-01-2B-6E-9C-74-2C-F0-5D-74-6A-69
+   Servidores DNS. . . . . . . . . . . . . . : 212.230.135.2
+                                       212.230.135.1
+   NetBIOS sobre TCP/IP. . . . . . . . . . . : habilitado

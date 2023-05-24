@@ -1,0 +1,7 @@
+
+Nombre de la co Adaptador de re Direcci¢n f¡sica    Nombre de transporte                                      
+=============== =============== =================== ==========================================================
+Ethernet        Realtek PCIe Gb 2C-F0-5D-74-6A-69   Medios desconectados                                      
+Wi-Fi           2X2 selectable  58-EF-68-27-24-BF   \Device\Tcpip_{15DF927D-1846-4623-B8C4-222680A99B13}      
+Conexi¢n de  re TAP-Windows Ada 00-FF-6F-35-C5-62   Medios desconectados                                      
+Ethernet 2      VirtualBox Host 0A-00-27-00-00-13   \Device\Tcpip_{EA6C0186-C68E-44DC-B914-3DC9269C92DF}      
